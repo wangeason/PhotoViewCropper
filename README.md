@@ -7,6 +7,8 @@ Since the package names of PhotoView and Cropper are not changed, include this p
 
 The version of this project follows the version of PhotoView
 
+[download demo](http://fir.im/PhotoViewCropper)
+
 # Usage
 
 ### Gradle
