@@ -39,6 +39,7 @@ import com.edmodo.cropper.cropwindow.edge.Edge;
 import com.edmodo.cropper.util.HandleUtil;
 import com.edmodo.cropper.util.ImageViewUtil;
 
+import io.github.wangeason.photoviewcropper.R;
 import uk.co.senab.photoview.PhotoView;
 
 /**

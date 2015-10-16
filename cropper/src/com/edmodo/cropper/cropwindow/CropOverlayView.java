@@ -212,8 +212,7 @@ public class CropOverlayView extends View {
 
     /**
      * Resets the crop overlay view.
-     * 
-     * @param bitmap the Bitmap to set
+     *
      */
     public void resetCropOverlayView() {
 

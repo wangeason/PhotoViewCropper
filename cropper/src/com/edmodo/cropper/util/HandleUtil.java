@@ -103,7 +103,14 @@ public class HandleUtil {
     /**
      * Calculates the offset of the touch point from the precise location of the
      * specified handle.
-     * 
+     *
+     * @param handle
+     * @param x
+     * @param y
+     * @param left
+     * @param top
+     * @param right
+     * @param bottom
      * @return the offset as a Pair where the x-offset is the first value and
      *         the y-offset is the second value; null if the handle is null
      */

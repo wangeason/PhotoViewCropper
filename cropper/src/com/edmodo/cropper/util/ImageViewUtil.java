@@ -26,7 +26,7 @@ public class ImageViewUtil {
 
     /**
      * Gets the rectangular position of a Bitmap if it were placed inside a View
-     * with scale type set to {@link ImageView#ScaleType #CENTER_INSIDE}.
+     * with scale type set to {@link ImageView.ScaleType#CENTER_INSIDE}.
      * 
      * @param bitmap the Bitmap
      * @param view the parent View of the Bitmap
@@ -44,7 +44,7 @@ public class ImageViewUtil {
 
     /**
      * Gets the rectangular position of a Bitmap if it were placed inside a View
-     * with scale type set to {@link ImageView#ScaleType #CENTER_INSIDE}.
+     * with scale type set to {@link ImageView.ScaleType #CENTER_INSIDE}.
      * 
      * @param bitmapWidth the Bitmap's width
      * @param bitmapHeight the Bitmap's height
@@ -63,7 +63,7 @@ public class ImageViewUtil {
     /**
      * Helper that does the work of the above functions. Gets the rectangular
      * position of a Bitmap if it were placed inside a View with scale type set
-     * to {@link ImageView#ScaleType #CENTER_INSIDE}.
+     * to {@link ImageView.ScaleType#CENTER_INSIDE}.
      * 
      * @param bitmapWidth the Bitmap's width
      * @param bitmapHeight the Bitmap's height
