@@ -17,7 +17,7 @@ As same as edmodo's cropper, except
 
 ```groovy
 dependencies {
-    compile 'io.github.wangeason:PhotoViewCropper:1.2.4'
+    compile 'io.github.wangeason:PhotoViewCropper:1.2.4.1'
 }
 ```
 
